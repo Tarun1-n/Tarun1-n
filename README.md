@@ -1,14 +1,18 @@
 <div align="center">
 
-  # Hi there, I'm Tarun Chourasiya 👋
-  
-  ### 🤖 AI / Machine Learning Engineer
-  
-  <p align="center">
-    <i>Building intelligent applications, agentic workflows, and high-performance APIs.</i>
-  </p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:0284c7&height=220&section=header&text=Tarun%20Chourasiya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer&descFontSize=22&descFontColor=38bdf8&descAlignY=62" width="100%" alt="Header" />
 
+  <!-- Animated Typing Subtitle -->
+  <a href="https://github.com/Tarun1-n">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%2F+Machine+Learning+Engineer;Building+Autonomous+Agents+%26+RAG+Systems;FastAPI+%2B+High-Performance+Async+Backends;LangChain+%7C+Vector+Databases+%7C+SQL;Full-Stack+AI+Web+Applications" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Profile Visitor Counter & Social Badges -->
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Tarun1-n&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     <a href="https://github.com/Tarun1-n"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
@@ -17,63 +21,14 @@
 
 ---
 
-### 🚀 About Me
+### 🧠 Core Competencies & Focus
 
-- 🔭 **Focus:** Developing end-to-end GenAI & Agentic systems using **LangChain** and **FastAPI**.
-- 🧠 **Expertise:** LLM Orchestration, RAG Pipelines, Vector Databases, and Scalable Backend Architecture.
-- 💻 **Full Stack Capabilities:** Seamlessly integrating AI/ML backends with responsive Web UIs.
-- 💬 **Ask me about:** Python, LangChain, FastAPI, SQL queries & optimization, and Modern Web interfaces.
-- 📫 **GitHub:** [@Tarun1-n](https://github.com/Tarun1-n)
-
----
-
-### 🛠️ Tech Stack
-
-#### **AI / ML & LLMs**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
-
-#### **Backend & Databases**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-</p>
-
-#### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-#### **Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun1-n&show_icons=true&theme=tokyonight&hide_border=true" alt="Tarun's GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun1-n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun1-n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  <sub>⭐️ Profile designed for Tarun Chourasiya. Star or fork to show support!</sub>
-</div>
+```yaml
+specialization:
+  domain: "Artificial Intelligence & Machine Learning Engineering"
+  focus_areas:
+    - "Generative AI & Autonomous Agent Architectures"
+    - "Retrieval-Augmented Generation (RAG) & Semantic Search"
+    - "High-Concurrency Async APIs (FastAPI)"
+    - "Relational & Vector Data Modeling (SQL, ChromaDB, FAISS)"
+    - "Interactive AI Frontends (HTML5, CSS3, Modern JavaScript)"
